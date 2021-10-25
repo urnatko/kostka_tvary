@@ -1,5 +1,5 @@
 {
-    "name": "kostka_tvar",
+    "name": "kostka_tvar_2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,13 +9,14 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.11",
+        "target": "4.0.16",
         "targetId": "microbit"
     },
     "supportedTargets": [
